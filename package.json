@@ -1,0 +1,19 @@
+{
+  "name": "idw_fatec_guilherme_santos",
+  "version": "1.0.0",
+  "description": "site desenvolvido na matéria IDW, 5 semestre 2020, JD, Fatec Carapicuiba",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Rebecca dos Santos",
+  "license": "ISC"
+}
